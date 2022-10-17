@@ -1,6 +1,6 @@
 - sup im @unicfoxx .
 - Im the manager of killer games studio.
-- I like byron. not as a friend.
+- I like twui. not as a friend.
 - Doing sharp c#.
 - ur not as cool as me, obviously.
 - Im a femboy. 
