@@ -4,5 +4,5 @@
 - Doing sharp c#.
 - ur not as cool as me, obviously.
 - Im a femboy. 
-- Join the killer games discord server to get game updates: https://discord.gg/dvbjUJXY29
-- Join Byrons server here im mostly active here. Its insane over there: https://discord.gg/8xcbvgtEqv 
+- Join the killer games discord server, it's epic over there https://discord.gg/dvbjUJXY29
+
