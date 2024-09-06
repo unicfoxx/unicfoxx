@@ -1,8 +1,4 @@
-- sup im @unicfoxx .
-- Im the CEO and COO of killer games studio.
-- I like twui. not as a friend.
-- Doing sharp c#.
-- ur not as cool as me, obviously.
-- Im a femboy. 
-- Join the killer games discord server, it's epic over there https://discord.gg/dvbjUJXY29
-
+- Vsauce, micheal here.
+- what is ligma
+- ligma balls
+- got em
