@@ -8,7 +8,7 @@
 </details>
 <hr>
 <details open>
-  <summary><h2>Active Projects <img height="25px" src="https://github.com/unicfoxx/unicfoxx/Images/emojisalute.png"></h2></summary>
+  <summary><h2>Active Projects <img height="25px" src="https://github.com/unicfoxx/unicfoxx/blob/main/Images/emojisalute.png"></h2></summary>
   <p>🔗Portfolio Website: <a href="https://unicfoxx.com">Website-Hub</a></p>
 </details>
 <hr>
