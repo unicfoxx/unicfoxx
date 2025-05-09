@@ -2,7 +2,7 @@
 
 <details open>
   <summary><h2>Intro <img height="25px" src="https://github.com/unicfoxx/unicfoxx/blob/main/Images/emojislime.png"></h2></summary>
-  <p>Haii! I'm from Norway, Bergen. I'm currently learning JavaScript, C#, and C++, and I'm pretty proficient in HTML, CSS, SCSS, and Python. Aside from coding, I also enjoy working with Photoshop, video editing, and exploring various aspects of IT.</p>
+  <p>Haii! I'm from Norway, Bergen. I'm currently learning PHP, JavaScript, and C++, and I'm pretty proficient in HTML, CSS/SCSS, and Python. Aside from coding, I also enjoy working with Photoshop, video editing, and exploring various aspects of IT.</p>
   <p>When I'm not coding, I have a few hobbies that keep me entertained. I love playing guitar and drums, watching anime, gaming, and listening to music. My favorite game genres include Horror, FPS, and Simulation.</p>
   <p>In terms of music, I'm a fan of Rock, Hip-Hop, Classical, and J-Rock. Some of my favorite artists and bands include The White Stripes, The Black Keys, System of a Down (SOAD), and Twenty One Pilots (TØP).</p>
 </details>
