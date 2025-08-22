@@ -9,7 +9,7 @@
 <hr>
 <details open>
   <summary><h2>Active Projects <img height="25px" src="https://github.com/unicfoxx/unicfoxx/blob/main/Images/emojisalute.png"></h2></summary>
-  <p>🔗Kewl Website: 
+  <p>🔗Kewl Website: <a href="https://github.com/unicfoxx/Kewl">Kewl</a>
   <p>🔗Portfolio Website: <a href="https://unicfoxx.github.io/Portfolio/">Portfolio</a></p>
 </details>
 <hr>
